@@ -1,0 +1,44 @@
+{
+  "limiar_fixo": 0.5,
+  "regressao_logistica": {
+    "linhas": 240,
+    "atrasados_reais": 104,
+    "acuracia": 0.6416666666666667,
+    "acuracia_balanceada": 0.626131221719457,
+    "precisao": 0.6022727272727273,
+    "recall": 0.5096153846153846,
+    "f1": 0.5520833333333334,
+    "roc_auc": 0.7147907239819005,
+    "matriz_confusao": [
+      [
+        101,
+        35
+      ],
+      [
+        51,
+        53
+      ]
+    ]
+  },
+  "baseline_prior": {
+    "linhas": 240,
+    "atrasados_reais": 104,
+    "acuracia": 0.5666666666666667,
+    "acuracia_balanceada": 0.5,
+    "precisao": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "roc_auc": 0.5,
+    "matriz_confusao": [
+      [
+        136,
+        0
+      ],
+      [
+        104,
+        0
+      ]
+    ]
+  },
+  "nota": "Dados artificiais. Metricas nao demonstram desempenho em uma empresa real."
+}

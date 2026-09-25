@@ -1,0 +1,17 @@
+Criando .venv314 com Python 3.14.7
+Collecting cryptography==46.0.7 (from -r /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto04_Videoaula16/requirements.txt (line 1))
+  Downloading cryptography-46.0.7-cp311-abi3-manylinux_2_34_x86_64.whl.metadata (5.7 kB)
+Collecting cffi>=2.0.0 (from cryptography==46.0.7->-r /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto04_Videoaula16/requirements.txt (line 1))
+  Downloading cffi-2.1.1-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.whl.metadata (2.5 kB)
+Collecting pycparser (from cffi>=2.0.0->cryptography==46.0.7->-r /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto04_Videoaula16/requirements.txt (line 1))
+  Downloading pycparser-3.0-py3-none-any.whl.metadata (8.2 kB)
+Downloading cryptography-46.0.7-cp311-abi3-manylinux_2_34_x86_64.whl (4.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.5/4.5 MB 27.6 MB/s  0:00:00
+Downloading cffi-2.1.1-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (221 kB)
+Downloading pycparser-3.0-py3-none-any.whl (48 kB)
+Installing collected packages: pycparser, cffi, cryptography
+
+Successfully installed cffi-2.1.1 cryptography-46.0.7 pycparser-3.0
+Python: 3.14.7
+Executavel: /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto04_Videoaula16/.venv314/bin/python
+cryptography: 46.0.7

@@ -1,0 +1,14 @@
+{
+  "dataset": "faturamento_simulado",
+  "finalidade": "Aprendizado local, sem uso operacional",
+  "dono_do_dado": "Funcao simulada: gestao comercial",
+  "gestor_do_dado": "Funcao simulada: data steward",
+  "produtor": "Gerador deste projeto",
+  "consumidor": "Analista simulado",
+  "fonte": "data/laboratorio.db / pedidos",
+  "classificacao_origem": "restrito no exercicio",
+  "classificacao_publicacao": "interno no exercicio",
+  "dados_reais": false,
+  "frequencia": "sob comando manual",
+  "indicador": "Faturamento apos descontos de pedidos concluidos; sem apuracao tributaria"
+}

@@ -1,0 +1,25 @@
+{
+  "etapa": "preprocessamento",
+  "utc": "2026-09-24T00:14:22.692773+00:00",
+  "arquivos": {
+    "data/tratados/pedidos_limpos.csv": "5d8996ab043ed1069c703e17ab6de5f6e05c6c61704305077062be4749d61e66",
+    "data/tratados/quarentena.csv": "0630a0d41e2022d01785aaf6d7d39b53e73d7919a856b5260cfff7d5f135a78f",
+    "data/tratados/embargo_temporal.csv": "0b6410f9cfc74f0ddf479eef94e7c41014ba71d10582f7138b025c45165cec19",
+    "data/analiticos/treino.csv": "abdc6ac089de11cd43cfe8c2ebe804bf716cf50f9ccf347af678f90cd787bf42",
+    "data/analiticos/X_treino.csv": "531dbe99b8ea80cf9fa38cec89281723a66382fea2fde653435c60140a1b6f1d",
+    "data/analiticos/y_treino.csv": "ebc532ff8d6686aa625371a2d18cff358c052894557ee641e8b3697578ca2dd7",
+    "data/analiticos/validacao.csv": "e000a9d78b704bba101f778bc9e92cc72c965c59ab9b3b3f5469246ed73fff81",
+    "data/analiticos/X_validacao.csv": "b5db4933f2ffb3e7cc5995bc035100535868af58586a4eadf287c3b952dd130a",
+    "data/analiticos/y_validacao.csv": "5696bdb6774979a5ef92385dbd115f45b5b9608aa3be1a5a17af59fa2b922883",
+    "data/analiticos/teste.csv": "a5ac497f02da234640c13e06c96f1b2b291f5f648ccb3498cb06fcd7252f986c",
+    "data/analiticos/X_teste.csv": "9b2e21695eb66002be4860d250ada53c580e364f8dfbf467196baa5decf17f7d",
+    "data/analiticos/y_teste.csv": "45a189797f84f8700cceb24827dc12a2b838c133fc88ffbc35be62a56612c3cb",
+    "modelos/preprocessador.joblib": "79b28c665743d4a8896b6c0ebe5bf8e855866f1143b4161b3d3ff081ec9b1fe1",
+    "outputs/qualidade.json": "5d0ae84357e8db3c48dad1b433cba2b03a121321901c0e832c2dd621c83d7675",
+    "outputs/features.json": "fdb3d07a84c52c140815feca7a1e1a3b61e8052fac8265ebf015d6018f4ed182",
+    "outputs/ingestao.json": "ff1ac24efc5fa4b40669805fc5a6c09ab7007828193e71a035d4e6f3bd8aa40a",
+    "data/pedidos.db": "daa6c1f2f202a82922b17ee1bd9b41f5e8fe636dbfd94041a997526b8a4d0ab5"
+  },
+  "linhas_validas": 1200,
+  "n_features": 18
+}

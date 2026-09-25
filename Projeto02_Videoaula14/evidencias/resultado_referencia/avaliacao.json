@@ -1,0 +1,11 @@
+{
+  "etapa": "avaliacao",
+  "utc": "2026-09-24T00:14:23.767753+00:00",
+  "arquivos": {
+    "outputs/metricas_teste.json": "28bd5f34ce43eeaca7b62721686634c6a9ab5fd279d230b2e31dddb42b1dde40",
+    "outputs/previsoes_teste.csv": "af3c445eb56177a2183004da7035dbec48a6c65174001ba4e7b44b1953a8f818",
+    "outputs/matriz_confusao.png": "57a3fd0edbab3513d1e6df81677e0fb0e57100fc0b254f45ce1299afcdc8d73f",
+    "outputs/relatorio.md": "6583e33133388a0477e45601f6d7bbac46d4b5cc82d3efac7c6618f407299f8d",
+    "outputs/treinamento.json": "6a63f51554caaecd22f56a32ca94947116d5e7e8cfc5028864afb25f9da34810"
+  }
+}

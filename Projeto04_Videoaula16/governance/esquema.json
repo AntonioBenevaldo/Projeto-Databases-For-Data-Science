@@ -1,0 +1,14 @@
+{
+  "versao": "1.0",
+  "moeda": "centavos inteiros",
+  "chave": "pedido_id",
+  "status_publicado": "concluido",
+  "regras": [
+    "chave unica",
+    "campos obrigatorios",
+    "quantidade positiva",
+    "desconto nao excede bruto",
+    "datas ISO",
+    "identificadores DEMO e contatos example.invalid"
+  ]
+}

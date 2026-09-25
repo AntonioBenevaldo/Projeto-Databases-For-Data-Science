@@ -1,0 +1,27 @@
+test_01_primeira_carga_totais (test_pipeline.PipelineTest.test_01_primeira_carga_totais) ... ok
+test_02_repeticao_vazia_nao_duplica (test_pipeline.PipelineTest.test_02_repeticao_vazia_nao_duplica) ... ok
+test_03_delta_atualizacao_e_cancelamento (test_pipeline.PipelineTest.test_03_delta_atualizacao_e_cancelamento) ... ok
+test_04_reprocessamento_antigo_nao_desfaz_delta (test_pipeline.PipelineTest.test_04_reprocessamento_antigo_nao_desfaz_delta) ... ok
+test_05_limite_avanca_so_eventos_lidos (test_pipeline.PipelineTest.test_05_limite_avanca_so_eventos_lidos) ... ok
+test_06_retry_transitorio (test_pipeline.PipelineTest.test_06_retry_transitorio) ... ok
+test_07_esgotamento_retry_preserva_cursor (test_pipeline.PipelineTest.test_07_esgotamento_retry_preserva_cursor) ... ok
+test_08_erro_qualidade_nao_publica (test_pipeline.PipelineTest.test_08_erro_qualidade_nao_publica) ... ok
+test_09_falha_carga_rollback_do_upsert (test_pipeline.PipelineTest.test_09_falha_carga_rollback_do_upsert) ... ok
+test_10_erro_to_sql_reverte_resumo_e_checkpoint (test_pipeline.PipelineTest.test_10_erro_to_sql_reverte_resumo_e_checkpoint) ... ok
+test_11_preparar_e_delta_idempotentes (test_pipeline.PipelineTest.test_11_preparar_e_delta_idempotentes) ... ok
+test_12_checkpoint_obsoleto_bloqueado (test_pipeline.PipelineTest.test_12_checkpoint_obsoleto_bloqueado) ... ok
+test_13_dado_tardio_capturado (test_pipeline.PipelineTest.test_13_dado_tardio_capturado) ... ok
+test_14_varios_eventos_mesmo_pedido_no_lote (test_pipeline.PipelineTest.test_14_varios_eventos_mesmo_pedido_no_lote) ... ok
+test_15_nao_pular_cursor (test_pipeline.PipelineTest.test_15_nao_pular_cursor) ... ok
+test_16_validacao_rejeita_faixas_e_schema (test_pipeline.PipelineTest.test_16_validacao_rejeita_faixas_e_schema) ... ok
+test_17_eventos_duplicados_ou_fora_de_ordem (test_pipeline.PipelineTest.test_17_eventos_duplicados_ou_fora_de_ordem) ... ok
+test_18_automacao_finita (test_pipeline.PipelineTest.test_18_automacao_finita) ... ok
+test_19_exportacao_e_logs (test_pipeline.PipelineTest.test_19_exportacao_e_logs) ... ok
+test_20_falha_exportacao_nao_finge_rollback (test_pipeline.PipelineTest.test_20_falha_exportacao_nao_finge_rollback) ... ok
+test_21_consulta_parametrizada (test_pipeline.PipelineTest.test_21_consulta_parametrizada) ... ok
+test_22_argumentos_invalidos (test_pipeline.PipelineTest.test_22_argumentos_invalidos) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 0.492s
+
+OK

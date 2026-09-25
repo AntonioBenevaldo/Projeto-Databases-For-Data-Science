@@ -1,0 +1,5 @@
+pedido_id,data_venda,cliente_pseudo,categoria,quantidade,faturamento_centavos,custo_total_centavos,lucro_bruto_centavos
+1,2026-01-01,a696f41888573ffaff6ca4bbc46d7dbad26cd20f92083557401a464f979cb96e,papelaria,2,10000,6000,4000
+2,2026-01-01,48e0a4d02182ca8e3ae354ea8683e81efbf411ce3f4107946c11923a4d4d2fac,informatica,1,19000,12000,7000
+4,2026-01-02,86e790f7b0b1cb595b153afd8e4c887e3f16b6ccea2a82e4c4ede3c3f3959f52,papelaria,5,5000,3000,2000
+6,2026-01-03,7284771640d1ae988b65082cacc8a05694a6a04eeacb3c591f5119eb23db8b05,informatica,2,23500,16000,7500

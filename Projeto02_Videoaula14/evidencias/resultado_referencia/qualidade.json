@@ -1,0 +1,93 @@
+{
+  "linhas_brutas": 1226,
+  "duplicatas_exatas_removidas": 20,
+  "registros_rejeitados": 6,
+  "linhas_validas": 1200,
+  "ausentes_validos": {
+    "valor_pedido": 48,
+    "quantidade": 0,
+    "distancia_km": 48,
+    "canal": 24,
+    "regiao": 24
+  },
+  "divisao": {
+    "corte_validacao": "2025-05-25",
+    "corte_teste": "2025-07-12",
+    "horizonte_rotulo_dias": 7,
+    "linhas_embargo": 70,
+    "particoes": {
+      "treino": {
+        "linhas": 685,
+        "inicio": "2025-01-01",
+        "fim": "2025-05-17",
+        "atrasados": 283
+      },
+      "validacao": {
+        "linhas": 205,
+        "inicio": "2025-05-25",
+        "fim": "2025-07-04",
+        "atrasados": 98
+      },
+      "teste": {
+        "linhas": 240,
+        "inicio": "2025-07-12",
+        "fim": "2025-08-28",
+        "atrasados": 104
+      }
+    }
+  },
+  "features_modelo": [
+    "valor_pedido",
+    "quantidade",
+    "distancia_km",
+    "valor_por_item",
+    "dia_semana",
+    "canal",
+    "regiao"
+  ],
+  "colunas_proibidas": [
+    "pedido_id",
+    "dias_entrega_real",
+    "atrasou",
+    "data_pedido (data absoluta)"
+  ],
+  "parametros_aprendidos_no_treino": {
+    "limites_inferiores": {
+      "valor_pedido": 61.6416,
+      "quantidade": 1.0,
+      "distancia_km": 18.92,
+      "valor_por_item": 8.454177777777778,
+      "dia_semana": 0.0
+    },
+    "limites_superiores": {
+      "valor_pedido": 1469.5349999999994,
+      "quantidade": 10.0,
+      "distancia_km": 991.975,
+      "valor_por_item": 865.0059999999955,
+      "dia_semana": 6.0
+    },
+    "medianas_apos_limitar": {
+      "valor_pedido": 299.47,
+      "quantidade": 6.0,
+      "distancia_km": 489.15,
+      "valor_por_item": 58.072,
+      "dia_semana": 3.0
+    },
+    "categorias": {
+      "canal": [
+        "aplicativo",
+        "desconhecido",
+        "loja",
+        "site"
+      ],
+      "regiao": [
+        "centro-oeste",
+        "desconhecido",
+        "nordeste",
+        "norte",
+        "sudeste",
+        "sul"
+      ]
+    }
+  }
+}

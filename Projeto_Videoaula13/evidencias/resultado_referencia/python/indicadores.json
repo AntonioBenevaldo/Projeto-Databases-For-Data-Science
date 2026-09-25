@@ -1,0 +1,9 @@
+{
+  "vendas": 10,
+  "unidades": 57,
+  "faturamento_centavos": 105300,
+  "custo_total_centavos": 63000,
+  "lucro_bruto_centavos": 42300,
+  "ticket_medio_reais": 105.3,
+  "margem_bruta_percentual": 40.17
+}

@@ -1,0 +1,16 @@
+{
+  "versao": "1.0",
+  "minimizacao": "Remover contato_simulado e pseudonimizar cliente_simulado com HMAC",
+  "segredos": "Gerados localmente e excluidos do Git",
+  "retencao": "Preservar durante o estudo e revisar ao final; sem exclusao automatica",
+  "restauracao": "Mudar referencia ativa sem apagar snapshots ou modificar a origem",
+  "alerta_variacao_volume_percentual": 30,
+  "nota_alerta": "Sinal didatico; nao e teste estatistico de drift",
+  "ambiente": "laboratorio local",
+  "limites": [
+    "Banco de origem nao criptografado",
+    "Permissoes por comando nao isolam usuarios do sistema operacional",
+    "Sem MFA/TLS; nao existe servidor de rede",
+    "Nao comprova conformidade legal"
+  ]
+}

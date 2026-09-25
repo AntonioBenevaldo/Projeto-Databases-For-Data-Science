@@ -1,0 +1,20 @@
+[
+  "numericas__valor_pedido",
+  "numericas__quantidade",
+  "numericas__distancia_km",
+  "numericas__valor_por_item",
+  "numericas__dia_semana",
+  "numericas__missingindicator_valor_pedido",
+  "numericas__missingindicator_distancia_km",
+  "numericas__missingindicator_valor_por_item",
+  "categoricas__canal_aplicativo",
+  "categoricas__canal_desconhecido",
+  "categoricas__canal_loja",
+  "categoricas__canal_site",
+  "categoricas__regiao_centro-oeste",
+  "categoricas__regiao_desconhecido",
+  "categoricas__regiao_nordeste",
+  "categoricas__regiao_norte",
+  "categoricas__regiao_sudeste",
+  "categoricas__regiao_sul"
+]

@@ -1,0 +1,23 @@
+test_01_contabilidade_da_limpeza (test_projeto.ProjetoTest.test_01_contabilidade_da_limpeza) ... ok
+test_02_divisao_sem_sobreposicao (test_projeto.ProjetoTest.test_02_divisao_sem_sobreposicao) ... ok
+test_03_rotulos_disponiveis_antes_do_corte (test_projeto.ProjetoTest.test_03_rotulos_disponiveis_antes_do_corte) ... ok
+test_04_features_excluem_futuro_e_alvo (test_projeto.ProjetoTest.test_04_features_excluem_futuro_e_alvo) ... ok
+test_05_estatisticas_aprendidas_apenas_no_treino (test_projeto.ProjetoTest.test_05_estatisticas_aprendidas_apenas_no_treino) ... ok
+test_06_teste_extremo_nao_reajusta_transformador (test_projeto.ProjetoTest.test_06_teste_extremo_nao_reajusta_transformador) ... ok
+test_07_categoria_futura_nao_aprendida (test_projeto.ProjetoTest.test_07_categoria_futura_nao_aprendida) ... ok
+test_08_matrizes_alinhadas_e_sem_nan (test_projeto.ProjetoTest.test_08_matrizes_alinhadas_e_sem_nan) ... ok
+test_09_ids_conflitantes_em_quarentena (test_projeto.ProjetoTest.test_09_ids_conflitantes_em_quarentena) ... ok
+test_10_metricas_com_resultado_conhecido (test_projeto.ProjetoTest.test_10_metricas_com_resultado_conhecido) ... ok
+test_11_modelo_salvo_equivalente (test_projeto.ProjetoTest.test_11_modelo_salvo_equivalente) ... ok
+test_12_hash_detecta_alteracao (test_projeto.ProjetoTest.test_12_hash_detecta_alteracao) ... ok
+test_13_geracao_reproduzivel (test_projeto.ProjetoTest.test_13_geracao_reproduzivel) ... ok
+test_14_ingestao_repetida_nao_acumula (test_projeto.ProjetoTest.test_14_ingestao_repetida_nao_acumula) ... ok
+test_15_novos_exemplos_sem_alvo (test_projeto.ProjetoTest.test_15_novos_exemplos_sem_alvo) ... ok
+test_16_origem_alterada_invalida_etapas_futuras (test_projeto.ProjetoTest.test_16_origem_alterada_invalida_etapas_futuras) ... ok
+test_17_argumento_tamanho_invalido (test_projeto.ProjetoTest.test_17_argumento_tamanho_invalido) ... ok
+test_18_ausencias_continuam_antes_da_imputacao (test_projeto.ProjetoTest.test_18_ausencias_continuam_antes_da_imputacao) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.725s
+
+OK

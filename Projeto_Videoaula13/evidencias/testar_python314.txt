@@ -1,0 +1,183 @@
+test_argumentos_invalidos (test_pipeline.PipelineTest.test_argumentos_invalidos) ... /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:949: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.executemany(statement, parameters)
+ok
+test_carga_repetida_nao_duplica (test_pipeline.PipelineTest.test_carga_repetida_nao_duplica) ... /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:949: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.executemany(statement, parameters)
+/workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:949: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.executemany(statement, parameters)
+ok
+test_chave_estrangeira_no_banco (test_pipeline.PipelineTest.test_chave_estrangeira_no_banco) ... /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:949: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.executemany(statement, parameters)
+ok
+test_chunks_diferentes_mesmo_resultado (test_pipeline.PipelineTest.test_chunks_diferentes_mesmo_resultado) ... /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:949: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.executemany(statement, parameters)
+/workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:952: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.execute(statement, parameters)
+/workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:952: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.execute(statement, parameters)
+ok
+test_comparador_detecta_divergencia (test_pipeline.PipelineTest.test_comparador_detecta_divergencia) ... /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:949: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.executemany(statement, parameters)
+/workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:952: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.execute(statement, parameters)
+/workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:952: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.execute(statement, parameters)
+ok
+test_csv_adulterado_detectado (test_pipeline.PipelineTest.test_csv_adulterado_detectado) ... /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:949: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.executemany(statement, parameters)
+/workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:952: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.execute(statement, parameters)
+ok
+test_dados_duplicados_detectados (test_pipeline.PipelineTest.test_dados_duplicados_detectados) ... /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:949: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.executemany(statement, parameters)
+/workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:952: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.execute(statement, parameters)
+ok
+test_janeiro_e_limites_inclusivos (test_pipeline.PipelineTest.test_janeiro_e_limites_inclusivos) ... /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:949: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.executemany(statement, parameters)
+/workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:952: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.execute(statement, parameters)
+ok
+test_parametro_nao_e_executado_como_sql (test_pipeline.PipelineTest.test_parametro_nao_e_executado_como_sql) ... /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:949: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.executemany(statement, parameters)
+ok
+test_periodo_vazio (test_pipeline.PipelineTest.test_periodo_vazio) ... /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:949: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.executemany(statement, parameters)
+/workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:952: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.execute(statement, parameters)
+ok
+test_restricao_quantidade_no_banco (test_pipeline.PipelineTest.test_restricao_quantidade_no_banco) ... /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:949: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.executemany(statement, parameters)
+ok
+test_totais_conferidos_manualmente (test_pipeline.PipelineTest.test_totais_conferidos_manualmente) ... /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:949: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.executemany(statement, parameters)
+/workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/lib/python3.14/site-packages/sqlalchemy/engine/default.py:952: DeprecationWarning: The default date adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cursor.execute(statement, parameters)
+ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.268s
+
+OK
+Banco preparado: carga por identificador, sem duplicar registros existentes.
+Banco preparado: carga por identificador, sem duplicar registros existentes.
+Banco preparado: carga por identificador, sem duplicar registros existentes.
+Banco preparado: carga por identificador, sem duplicar registros existentes.
+Banco preparado: carga por identificador, sem duplicar registros existentes.
+  Lote: 1 venda(s); acumulado: 1.
+  Lote: 1 venda(s); acumulado: 2.
+  Lote: 1 venda(s); acumulado: 3.
+  Lote: 1 venda(s); acumulado: 4.
+  Lote: 1 venda(s); acumulado: 5.
+  Lote: 1 venda(s); acumulado: 6.
+  Lote: 1 venda(s); acumulado: 7.
+  Lote: 1 venda(s); acumulado: 8.
+  Lote: 1 venda(s); acumulado: 9.
+  Lote: 1 venda(s); acumulado: 10.
+Extracao salva: /tmp/tmpzoct8baq/a/vendas_extraidas.csv
+  Lote: 10 venda(s); acumulado: 10.
+Extracao salva: /tmp/tmpzoct8baq/b/vendas_extraidas.csv
+Banco preparado: carga por identificador, sem duplicar registros existentes.
+  Lote: 4 venda(s); acumulado: 4.
+  Lote: 4 venda(s); acumulado: 8.
+  Lote: 2 venda(s); acumulado: 10.
+Extracao salva: /tmp/tmpw859mzxj/a/vendas_extraidas.csv
+  Lote: 4 venda(s); acumulado: 4.
+  Lote: 4 venda(s); acumulado: 8.
+  Lote: 2 venda(s); acumulado: 10.
+Extracao salva: /tmp/tmpw859mzxj/b/vendas_extraidas.csv
+
+INDICADORES (moeda em reais na exibicao)
+  vendas: 10
+  unidades: 57
+  faturamento_reais: 1053.00
+  custo_total_reais: 630.00
+  lucro_bruto_reais: 423.00
+  ticket_medio_reais: 105.3
+  margem_bruta_percentual: 40.17
+
+Resumo por categoria (valores em centavos):
+  categoria  faturamento_centavos  custo_total_centavos  lucro_bruto_centavos
+Informatica                 74000                 47000                 27000
+  Papelaria                 31300                 16000                 15300
+
+INDICADORES (moeda em reais na exibicao)
+  vendas: 10
+  unidades: 57
+  faturamento_reais: 1053.00
+  custo_total_reais: 630.00
+  lucro_bruto_reais: 423.00
+  ticket_medio_reais: 105.3
+  margem_bruta_percentual: 40.17
+
+Resumo por categoria (valores em centavos):
+  categoria  faturamento_centavos  custo_total_centavos  lucro_bruto_centavos
+Informatica                 74000                 47000                 27000
+  Papelaria                 31300                 16000                 15300
+OK: extracao, resumo por categoria e resumo mensal identicos em Python e R.
+Banco preparado: carga por identificador, sem duplicar registros existentes.
+  Lote: 4 venda(s); acumulado: 4.
+  Lote: 4 venda(s); acumulado: 8.
+  Lote: 2 venda(s); acumulado: 10.
+Extracao salva: /tmp/tmpq325_v30/saida/vendas_extraidas.csv
+Banco preparado: carga por identificador, sem duplicar registros existentes.
+  Lote: 4 venda(s); acumulado: 4.
+  Lote: 4 venda(s); acumulado: 8.
+  Lote: 2 venda(s); acumulado: 10.
+Extracao salva: /tmp/tmpe3o3j0qe/saida/vendas_extraidas.csv
+Banco preparado: carga por identificador, sem duplicar registros existentes.
+  Lote: 3 venda(s); acumulado: 3.
+Extracao salva: /tmp/tmpl9_42cjh/saida/vendas_extraidas.csv
+
+INDICADORES (moeda em reais na exibicao)
+  vendas: 3
+  unidades: 13
+  faturamento_reais: 143.00
+  custo_total_reais: 84.00
+  lucro_bruto_reais: 59.00
+  ticket_medio_reais: 47.67
+  margem_bruta_percentual: 41.26
+
+Resumo por categoria (valores em centavos):
+  categoria  faturamento_centavos  custo_total_centavos  lucro_bruto_centavos
+Informatica                  7500                  5000                  2500
+  Papelaria                  6800                  3400                  3400
+Banco preparado: carga por identificador, sem duplicar registros existentes.
+Banco preparado: carga por identificador, sem duplicar registros existentes.
+  Lote: 0 venda(s); acumulado: 0.
+Extracao salva: /tmp/tmp7jgg2ygt/saida/vendas_extraidas.csv
+
+INDICADORES (moeda em reais na exibicao)
+  vendas: 0
+  unidades: 0
+  faturamento_reais: 0.00
+  custo_total_reais: 0.00
+  lucro_bruto_reais: 0.00
+  ticket_medio_reais: None
+  margem_bruta_percentual: None
+Sem vendas no periodo: totais zero; ticket e margem nao se aplicam.
+
+Resumo por categoria (valores em centavos):
+Empty DataFrame
+Columns: [categoria, faturamento_centavos, custo_total_centavos, lucro_bruto_centavos]
+Index: []
+Banco preparado: carga por identificador, sem duplicar registros existentes.
+Banco preparado: carga por identificador, sem duplicar registros existentes.
+  Lote: 4 venda(s); acumulado: 4.
+  Lote: 4 venda(s); acumulado: 8.
+  Lote: 2 venda(s); acumulado: 10.
+Extracao salva: /tmp/tmp8qbh9qw2/saida/vendas_extraidas.csv
+
+INDICADORES (moeda em reais na exibicao)
+  vendas: 10
+  unidades: 57
+  faturamento_reais: 1053.00
+  custo_total_reais: 630.00
+  lucro_bruto_reais: 423.00
+  ticket_medio_reais: 105.3
+  margem_bruta_percentual: 40.17
+
+Resumo por categoria (valores em centavos):
+  categoria  faturamento_centavos  custo_total_centavos  lucro_bruto_centavos
+Informatica                 74000                 47000                 27000
+  Papelaria                 31300                 16000                 15300

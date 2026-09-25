@@ -1,0 +1,6 @@
+pedido_id,data_pedido,valor_pedido,quantidade,distancia_km,canal,regiao,probabilidade_atraso,previsao_atraso
+NOVO1,2025-09-05,128.77,7,96.1,parceiro,norte,0.1320979759179009,0
+NOVO2,2025-09-05,905.93,8,329.5,parceiro,nordeste,0.27276049207559117,0
+NOVO3,2025-09-05,618.73,10,238.5,parceiro,sudeste,0.2278751010727147,0
+NOVO4,2025-09-05,362.49,9,396.3,parceiro,sul,0.43358995631858105,0
+NOVO5,2025-09-05,124.53,7,743.6,parceiro,sudeste,0.6061484788058044,1

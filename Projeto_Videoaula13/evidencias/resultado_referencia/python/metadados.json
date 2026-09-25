@@ -1,0 +1,21 @@
+{
+  "extraido_em_utc": "2026-09-24T00:14:13.050591+00:00",
+  "banco": "sqlite",
+  "inicio": "2026-01-01",
+  "fim": "2026-03-31",
+  "status": "concluida",
+  "linhas": 10,
+  "chunk": 4,
+  "dataset": "vendas-demo-v1",
+  "query_sha256": "91e8a12f3170805277cea4f6110e534e9124f9926e833ac72452c86b81e8e2ce",
+  "csv_sha256": "0760c7ae591221addb00f05e09de6df1acdea93ca0ef3a33b9d31c26f722a73f",
+  "fontes_sha256": {
+    "produtos.csv": "19c61e6d94a021612f69c0e46de834a20cdbe1a838f847f0dd78dc617035ccbb",
+    "vendas.csv": "cba23f0853f28d08fce63f20cc8b902e6e1f9a5103a27d6752039ca587adf130"
+  },
+  "versoes": {
+    "python": "3.14.7",
+    "pandas": "2.3.3",
+    "sqlalchemy": "2.0.54"
+  }
+}

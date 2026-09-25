@@ -1,0 +1,12 @@
+{
+  "etapa": "ingestao",
+  "utc": "2026-09-24T00:14:22.625923+00:00",
+  "arquivos": {
+    "data/brutos/pedidos.csv": "ea9ed7901f610d0f1696afc722b22a5a39faddac3bfa311669c2449f8a71fad2",
+    "data/pedidos.db": "daa6c1f2f202a82922b17ee1bd9b41f5e8fe636dbfd94041a997526b8a4d0ab5",
+    "outputs/geracao.json": "9fd8cd4702d7cc7ffbba517e636d860d0c1460c505a46fab89af749326ca2e0b"
+  },
+  "linhas": 1226,
+  "estrategia": "batch_snapshot",
+  "seed": 42
+}

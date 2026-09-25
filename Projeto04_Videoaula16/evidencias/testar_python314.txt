@@ -1,0 +1,29 @@
+test_01_inicializacao_preserva_chaves (test_projeto.ProjetoTest.test_01_inicializacao_preserva_chaves) ... ok
+test_02_publicacao_totais (test_projeto.ProjetoTest.test_02_publicacao_totais) ... ok
+test_03_analista_nao_publica (test_projeto.ProjetoTest.test_03_analista_nao_publica) ... ok
+test_04_auditor_nao_consulta_dados (test_projeto.ProjetoTest.test_04_auditor_nao_consulta_dados) ... ok
+test_05_credencial_falsa_negada (test_projeto.ProjetoTest.test_05_credencial_falsa_negada) ... ok
+test_06_sem_contatos_no_publicado (test_projeto.ProjetoTest.test_06_sem_contatos_no_publicado) ... ok
+test_07_copia_bruta_cifrada_recuperavel_em_memoria (test_projeto.ProjetoTest.test_07_copia_bruta_cifrada_recuperavel_em_memoria) ... ok
+test_08_csv_adulterado_detectado (test_projeto.ProjetoTest.test_08_csv_adulterado_detectado) ... ok
+test_09_manifesto_adulterado_detectado (test_projeto.ProjetoTest.test_09_manifesto_adulterado_detectado) ... ok
+test_10_hmac_protege_mesmo_se_hash_catalogo_for_alterado (test_projeto.ProjetoTest.test_10_hmac_protege_mesmo_se_hash_catalogo_for_alterado) ... ok
+test_11_duas_versoes_e_comparacao (test_projeto.ProjetoTest.test_11_duas_versoes_e_comparacao) ... ok
+test_12_restaurar_preserva_origem_e_versoes (test_projeto.ProjetoTest.test_12_restaurar_preserva_origem_e_versoes) ... ok
+test_13_engenheiro_nao_restaura (test_projeto.ProjetoTest.test_13_engenheiro_nao_restaura) ... ok
+test_14_auditoria_tamper_bloqueia_operacoes (test_projeto.ProjetoTest.test_14_auditoria_tamper_bloqueia_operacoes) ... ok
+test_15_travessia_diretorio_negada (test_projeto.ProjetoTest.test_15_travessia_diretorio_negada) ... ok
+test_16_qualidade_invalida_nao_cria_versao (test_projeto.ProjetoTest.test_16_qualidade_invalida_nao_cria_versao) ... ok
+test_17_periodo_vazio_valido (test_projeto.ProjetoTest.test_17_periodo_vazio_valido) ... ok
+test_18_pseudonimo_estavel_e_separado_por_chave (test_projeto.ProjetoTest.test_18_pseudonimo_estavel_e_separado_por_chave) ... ok
+test_19_repetir_publicacao_cria_versao_sem_alterar_anterior (test_projeto.ProjetoTest.test_19_repetir_publicacao_cria_versao_sem_alterar_anterior) ... ok
+test_20_logs_nao_contem_segredos_ou_contatos (test_projeto.ProjetoTest.test_20_logs_nao_contem_segredos_ou_contatos) ... ok
+test_21_falha_publicacao_nao_altera_ativa (test_projeto.ProjetoTest.test_21_falha_publicacao_nao_altera_ativa) ... ok
+test_22_snapshots_incluem_governanca_e_consulta (test_projeto.ProjetoTest.test_22_snapshots_incluem_governanca_e_consulta) ... ok
+test_23_delta_aplicado_uma_vez (test_projeto.ProjetoTest.test_23_delta_aplicado_uma_vez) ... ok
+test_24_chave_incorreta_recusa_verificacao (test_projeto.ProjetoTest.test_24_chave_incorreta_recusa_verificacao) ... ok
+
+----------------------------------------------------------------------
+Ran 24 tests in 0.129s
+
+OK

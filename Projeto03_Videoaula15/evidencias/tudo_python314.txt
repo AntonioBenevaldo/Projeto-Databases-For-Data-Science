@@ -1,0 +1,4 @@
+PREPARAR: 6 eventos iniciais inseridos. Repetir preserva dados existentes.
+RELATORIO: /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto03_Videoaula15/outputs/execucoes/e633fbd720b84229
+{"pedidos_no_destino": 6, "pedidos_concluidos": 4, "faturamento_centavos": 57500, "custo_total_centavos": 37000, "lucro_bruto_centavos": 20500, "ultimo_evento": 6}
+PIPELINE: {'run_id': 'e633fbd720b84229', 'status': 'sucesso', 'tentativas': 1, 'eventos_lidos': 6, 'pedidos_alterados': 6, 'checkpoint_antes': 0, 'checkpoint_depois': 6, 'topo_origem_na_extracao': 6, 'eventos_ainda_pendentes': 0, 'duracao_segundos': 0.017259}

@@ -1,0 +1,43 @@
+Criando .venv314 com Python 3.14.7
+Collecting numpy==2.3.5 (from -r /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/requirements.txt (line 1))
+  Downloading numpy-2.3.5-cp314-cp314-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl.metadata (62 kB)
+Collecting pandas==2.3.3 (from -r /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/requirements.txt (line 2))
+  Using cached pandas-2.3.3-cp314-cp314-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl.metadata (91 kB)
+Collecting SQLAlchemy==2.0.54 (from -r /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/requirements.txt (line 3))
+  Using cached sqlalchemy-2.0.54-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (9.7 kB)
+Collecting python-dotenv==1.2.3 (from -r /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/requirements.txt (line 4))
+  Using cached python_dotenv-1.2.3-py3-none-any.whl.metadata (29 kB)
+Collecting python-dateutil>=2.8.2 (from pandas==2.3.3->-r /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/requirements.txt (line 2))
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting pytz>=2020.1 (from pandas==2.3.3->-r /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/requirements.txt (line 2))
+  Using cached pytz-2026.3.post1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting tzdata>=2022.7 (from pandas==2.3.3->-r /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/requirements.txt (line 2))
+  Using cached tzdata-2026.4-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting greenlet>=1 (from SQLAlchemy==2.0.54->-r /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/requirements.txt (line 3))
+  Using cached greenlet-3.5.6-cp314-cp314-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl.metadata (3.8 kB)
+Collecting typing-extensions>=4.6.0 (from SQLAlchemy==2.0.54->-r /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/requirements.txt (line 3))
+  Using cached typing_extensions-4.16.0-py3-none-any.whl.metadata (3.3 kB)
+Collecting six>=1.5 (from python-dateutil>=2.8.2->pandas==2.3.3->-r /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/requirements.txt (line 2))
+  Using cached six-1.17.0-py2.py3-none-any.whl.metadata (1.7 kB)
+Downloading numpy-2.3.5-cp314-cp314-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (16.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 16.6/16.6 MB 46.5 MB/s  0:00:00
+Downloading pandas-2.3.3-cp314-cp314-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl (12.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.3/12.3 MB 46.7 MB/s  0:00:00
+Using cached sqlalchemy-2.0.54-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (3.4 MB)
+Downloading python_dotenv-1.2.3-py3-none-any.whl (22 kB)
+Using cached greenlet-3.5.6-cp314-cp314-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl (670 kB)
+Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+Using cached pytz-2026.3.post1-py2.py3-none-any.whl (508 kB)
+Downloading six-1.17.0-py2.py3-none-any.whl (11 kB)
+Downloading typing_extensions-4.16.0-py3-none-any.whl (45 kB)
+Downloading tzdata-2026.4-py2.py3-none-any.whl (347 kB)
+Installing collected packages: pytz, tzdata, typing-extensions, six, python-dotenv, numpy, greenlet, SQLAlchemy, python-dateutil, pandas
+
+Successfully installed SQLAlchemy-2.0.54 greenlet-3.5.6 numpy-2.3.5 pandas-2.3.3 python-dateutil-2.9.0.post0 python-dotenv-1.2.3 pytz-2026.3.post1 six-1.17.0 typing-extensions-4.16.0 tzdata-2026.4
+Python: 3.14.7
+Executavel: /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/.venv314/bin/python
+pandas 2.3.3
+SQLAlchemy 2.0.54
+python-dotenv 1.2.3
+Rscript no PATH: nao localizado
+Docker no PATH: nao localizado

@@ -1,0 +1,24 @@
+{
+  "etapa": "treinamento",
+  "utc": "2026-09-24T00:14:22.737118+00:00",
+  "arquivos": {
+    "modelos/modelo.joblib": "747731e43832cc97264e9e8243ab656e1627bc82fd7651fd94389daad4ffc32c",
+    "outputs/metricas_validacao.json": "02378e73c4e0363ab733c2b3a533eb42e3141c78004d830bf5965c5814067a45",
+    "outputs/preprocessamento.json": "b4b610a890d13c8a8b973a92fe57223aa8d04edba09a731cf768b63d7a72a4eb"
+  },
+  "versoes": {
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.8.0",
+    "scipy": "1.18.1",
+    "joblib": "1.5.3",
+    "threadpoolctl": "3.7.0"
+  },
+  "python": "3.14.7",
+  "codigo_sha256": {
+    "projeto.py": "57508a1168db6286ad24790dd8712b34caff6027dd0160ec7ee4c83055af03bd",
+    "src/pipeline.py": "03d9a3345222ed4402e11dc99cc80b5e24f91a934a6a5ea1b740d2084e3ad72c",
+    "src/preparacao.py": "252a949495d072eb7f797ea1cdc007f288608ffb12da3822ade69457b5080020",
+    "requirements.txt": "63ee085c5cb216635ca849181d9e9ff255e8d84599881d4c420c392cc9e3e96c"
+  }
+}

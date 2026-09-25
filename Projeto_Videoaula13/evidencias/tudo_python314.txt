@@ -1,0 +1,19 @@
+Banco preparado: carga por identificador, sem duplicar registros existentes.
+  Lote: 4 venda(s); acumulado: 4.
+  Lote: 4 venda(s); acumulado: 8.
+  Lote: 2 venda(s); acumulado: 10.
+Extracao salva: /workspace/scratch/3ba8add49ec8/Projetos_Python314/Projeto_Videoaula13/outputs/python/vendas_extraidas.csv
+
+INDICADORES (moeda em reais na exibicao)
+  vendas: 10
+  unidades: 57
+  faturamento_reais: 1053.00
+  custo_total_reais: 630.00
+  lucro_bruto_reais: 423.00
+  ticket_medio_reais: 105.3
+  margem_bruta_percentual: 40.17
+
+Resumo por categoria (valores em centavos):
+  categoria  faturamento_centavos  custo_total_centavos  lucro_bruto_centavos
+Informatica                 74000                 47000                 27000
+  Papelaria                 31300                 16000                 15300

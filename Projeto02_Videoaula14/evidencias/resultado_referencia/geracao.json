@@ -1,0 +1,12 @@
+{
+  "etapa": "geracao",
+  "utc": "2026-09-24T00:14:22.620057+00:00",
+  "arquivos": {
+    "data/brutos/pedidos.csv": "ea9ed7901f610d0f1696afc722b22a5a39faddac3bfa311669c2449f8a71fad2",
+    "data/brutos/novos_pedidos.csv": "445da7facd95d43afe55919143a4ece2150865e65d8737f5dc1d67ae0bb64cd6"
+  },
+  "seed": 42,
+  "linhas_base": 1200,
+  "linhas_brutas": 1226,
+  "dataset": "pedidos-demo-v1"
+}
